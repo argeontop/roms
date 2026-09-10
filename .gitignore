@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.mypy_cache/
+.ruff_cache/
+dist/
+*.dd
+*.raw
+*.E[0-9][0-9]
+*.partial
+tools/*
+!tools/README.md
